@@ -16,8 +16,8 @@ const footerLinks = {
         { label: "FAQs", href: "#faqs" }, { label: "Disputes", href: "#" },
     ],
     Legal: [
-        { label: "Privacy Policy", href: "#" }, { label: "Terms of Service", href: "#" },
-        { label: "Cookie Policy", href: "#" }, { label: "Dealer Agreement", href: "#" },
+        { label: "Privacy Policy", href: "/legal/privacy" }, { label: "Terms of Service", href: "/legal/terms" },
+        { label: "Cookie Policy", href: "/legal/cookies" }, { label: "Dealer Agreement", href: "/legal/dealer-agreement" },
     ],
 };
 
